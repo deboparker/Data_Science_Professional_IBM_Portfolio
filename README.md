@@ -19,8 +19,8 @@ Use the links below to navigate to each module.
 
 | # | Course | Status | Tools & Topics |
 |---|--------|--------|----------------|
-| 01 | [Introduction to Data Analytics](./01-Introduction-to-Data-Analytics) | ✅ Complete | Data ecosystems, analytics lifecycle, career paths |
-| 02 | [Excel Basics for Data Analysis](./02-Excel-Basics-for-Data-Analysis) | 🔄 In Progress | Filtering, pivot tables, VLOOKUP, data functions |
+| 01 | [What is Data Science](./01-Introduction-to-Data-Analytics) | ✅ Complete | Data ecosystems, analytics lifecycle, career paths |
+| 02 | [Tools for Data Science](./02-Excel-Basics-for-Data-Analysis) | ✅ Complete | Filtering, pivot tables, VLOOKUP, data functions |
 | 03 | [Data Visualization and Dashboards with Excel and Cognos](./03-Data-Visualization-Dashboards-Excel-Cognos) | ⬜ Not Started | Excel charts, IBM Cognos, dashboards |
 | 04 | [Python for Data Science, AI & Development](./04-Python-for-Data-Science-AI-Development) | ⬜ Not Started | Python basics, APIs, web scraping |
 | 05 | [Python Project for Data Science](./05-Python-Project-for-Data-Science) | ⬜ Not Started | Python project, data extraction, visualization |
