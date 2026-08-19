@@ -1,14 +1,16 @@
-# 📊 Course: Tools for Data Science
+# 📊 Course: Data Science Methodology
 ---
-## 📖 Course Overview
-This course introduces essential data analytics tools, with a focus on Microsoft Excel for organizing, filtering, and analyzing tabular data. It covers core spreadsheet functions, pivot tables, and lookup formulas used to summarize and extract insights from raw datasets.
+## 📘 Course Overview
+This course covers the foundational methodology data scientists use to approach problems, based on CRISP-DM (Cross-Industry Standard Process for Data Mining). It focuses on the first stages: Business Understanding, Analytic Approach, Data Requirements, and Data Collection.
 ---
 ## 🛠️ Skills Learned
-- Jupyter: Used to write code cells, document technical markdown notes, and format structured tables outlining data science libraries and tools.
-- GitHub: Set up my Github host my Jupyter Notebook (.ipynb) file publicly, proving basic version control and public repository publishing capabilities.
+- CRISP-DM Methodology: Applied the foundational data science methodology to structure problem-solving from business question to model.
+- Business Understanding: Practiced composing clearly defined questions that address a business problem.
+- Analytic Approach: Learned to evaluate whether a problem calls for a predictive, descriptive, or classification model.
+- Data Requirements & Collection: Determined data content, format, and sources needed before collection and preparation.
+- Decision Tree Classification: Applied decision tree logic to classify outcomes in a case study.
 ---
 ## 📁 Projects
 | Project | Description | Tools Used |
 |---------|-------------|------------|
-| N/A | N/A | N/A|
----S
+| *(Coming soon)* | Case study applying CRISP-DM stages | N/A |
