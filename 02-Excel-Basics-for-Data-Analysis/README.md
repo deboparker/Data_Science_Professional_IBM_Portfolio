@@ -5,7 +5,7 @@ This course introduces essential data analytics tools, with a focus on Microsoft
 ---
 ## 🛠️ Skills Learned
 - Jupyter: Used to write code cells, document technical markdown notes, and format structured tables outlining data science libraries and tools.
-- GitHub: Used as the distribution platform to host your Jupyter Notebook (.ipynb) file publicly, proving basic version control and public repository publishing capabilities.
+- GitHub: Set up my Github host my Jupyter Notebook (.ipynb) file publicly, proving basic version control and public repository publishing capabilities.
 ---
 ## 📁 Projects
 | Project | Description | Tools Used |
