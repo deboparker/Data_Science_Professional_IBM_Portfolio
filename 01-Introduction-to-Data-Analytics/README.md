@@ -30,5 +30,4 @@ This course introduces the fundamentals of data analytics including the data eco
 ---
 
 ## 🏆 Certificate
-
-*(Add your Coursera certificate link or screenshot here once downloaded)*
+[View my Certificate](./Data%20_Science_Foundations.pdf)
