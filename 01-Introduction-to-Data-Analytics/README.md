@@ -9,11 +9,11 @@ This course explores foundational data science methodologies, analytical workflo
 
 ## 🛠️ Skills Learned
 
-- Explain what data analytics is and the key steps in the data analytics process
-- Differentiate between different data roles such as Data Analyst, Data Scientist, and Data Engineer
-- Describe the data ecosystem and the tools used in data analytics
-- Identify use cases for data analytics across different industries
-- Understand the basics of data gathering, wrangling, and mining
+Explain what data analytics is and the key steps in the data analytics process  
+Differentiate between different data roles such as Data Analyst, Data Scientist, and Data Engineer  
+Describe the data ecosystem and the tools used in data analytics  
+Identify use cases for data analytics across different industries  
+Understand the basics of data gathering, wrangling, and mining
 
 ---
 
