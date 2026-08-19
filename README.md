@@ -17,8 +17,6 @@ Use the links below to navigate to each module.
 
 ## 📁 Course Modules
 
-## 📁 Course Modules
-
 | # | Course | Status | Tools & Topics |
 |---|--------|--------|----------------|
 | 01 | [What is Data Science](./01-Introduction-to-Data-Analytics) | ✅ Complete | [Data ecosystems](https://en.wikipedia.org/wiki/Data_ecosystem), [analytics lifecycle](https://en.wikipedia.org/wiki/Data_analysis), career paths |
