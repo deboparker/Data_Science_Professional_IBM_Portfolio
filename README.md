@@ -16,21 +16,19 @@ Use the links below to navigate to each module.
 ---
 ## 📁 Course Modules
 
-| # | Course | Status | Tools & Topics |
-|---|--------|--------|----------------|
-| 01 | [What is Data Science](./01-Introduction-to-Data-Analytics) | ✅ Complete | Data ecosystems, analytics lifecycle, career paths |
-| 02 | [Tools for Data Science](./02-Excel-Basics-for-Data-Analysis) | ✅ Complete | Filtering, pivot tables, VLOOKUP, data functions |
-| 03 | [Data Visualization and Dashboards with Excel and Cognos](./03-Data-Visualization-Dashboards-Excel-Cognos) | ⬜ Not Started | Excel charts, IBM Cognos, dashboards |
-| 04 | [Python for Data Science, AI & Development](./04-Python-for-Data-Science-AI-Development) | ⬜ Not Started | Python basics, APIs, web scraping |
-| 05 | [Python Project for Data Science](./05-Python-Project-for-Data-Science) | ⬜ Not Started | Python project, data extraction, visualization |
-| 06 | [Databases and SQL for Data Science with Python](./06-Databases-and-SQL-for-Data-Science-Python) | ⬜ Not Started | SQL, relational databases, Python + SQL |
-| 07 | [Data Analysis with Python](./07-Data-Analysis-with-Python) | ⬜ Not Started | Pandas, Numpy, exploratory data analysis |
-| 08 | [Data Visualization with Python](./08-Data-Visualization-with-Python) | ⬜ Not Started | Matplotlib, Seaborn, Folium, Plotly |
-| 09 | [IBM Data Analyst Capstone Project](./09-IBM-Data-Analyst-Capstone-Project) | ⬜ Not Started | End-to-end analytics project |
-| 10 | [Generative AI: Enhance your Data Analytics Career](./10-Generative-AI-Data-Analytics) | ⬜ Not Started | AI tools, prompt engineering for analysts |
-| 11 | [Data Analyst Career Guide and Interview Preparation](./11-Data-Analyst-Career-Guide-Interview-Prep) | ⬜ Not Started | Resume, portfolio, interview prep |
-|---|--------|--------|----------------|
-
+| # | Course | Status | Tools & Topics | Projects |
+|---|--------|--------|-----------------|----------|
+| 01 | [What is Data Science](./01-Introduction-to-Data-Analytics) | ✅ Complete | Data ecosystems, analytics lifecycle, career paths | N/A |
+| 02 | [Tools for Data Science](./02-Excel-Basics-for-Data-Analysis) | ✅ Complete | Filtering, pivot tables, VLOOKUP, data functions | N/A |
+| 03 | [Data Visualization and Dashboards with Excel and Cognos](./03-Data-Visualization-Dashboards-Excel-Cognos) | ⬜ Not Started | Excel charts, IBM Cognos, dashboards | N/A |
+| 04 | [Python for Data Science, AI & Development](./04-Python-for-Data-Science-AI-Development) | ⬜ Not Started | Python basics, APIs, web scraping | N/A |
+| 05 | [Python Project for Data Science](./05-Python-Project-for-Data-Science) | ⬜ Not Started | Python project, data extraction, visualization | N/A |
+| 06 | [Databases and SQL for Data Science with Python](./06-Databases-and-SQL-for-Data-Science-Python) | ⬜ Not Started | SQL, relational databases, Python + SQL | N/A |
+| 07 | [Data Analysis with Python](./07-Data-Analysis-with-Python) | ⬜ Not Started | Pandas, Numpy, exploratory data analysis | N/A |
+| 08 | [Data Visualization with Python](./08-Data-Visualization-with-Python) | ⬜ Not Started | Matplotlib, Seaborn, Folium, Plotly | N/A |
+| 09 | [IBM Data Analyst Capstone Project](./09-IBM-Data-Analyst-Capstone-Project) | ⬜ Not Started | End-to-end analytics project | N/A |
+| 10 | [Generative AI: Enhance your Data Analytics Career](./10-Generative-AI-Data-Analytics) | ⬜ Not Started | AI tools, prompt engineering for analysts | N/A |
+| 11 | [Data Analyst Career Guide and Interview Preparation](./11-Data-Analyst-Career-Guide-Interview-Prep) | ⬜ Not Started | Resume, portfolio, interview prep | N/A |
 ---
 
 ## 🛠️ Tools & Skills Being Built
