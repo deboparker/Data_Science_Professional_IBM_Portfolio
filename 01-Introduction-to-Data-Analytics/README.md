@@ -22,7 +22,7 @@ This course explores foundational data science methodologies, analytical workflo
 
 | Project | Description | Tools Used |
 |---------|-------------|------------|
-| *(Coming soon)* | Projects will be added as completed | — |
+| N/A| N/A | Big data concepts, cloud computing, data mining process|
 
 ---
 
