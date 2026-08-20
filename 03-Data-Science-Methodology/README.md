@@ -13,4 +13,4 @@ This course covers the foundational methodology data scientists use to approach 
 ## 📁 Projects
 | Project | Description | Tools Used |
 |---------|-------------|------------|
-| *(Coming soon)* | Case study applying CRISP-DM stages | N/A |
+*(Credit Card Cluster Analysis coming soon)* | Case study applying CRISP-DM stages | N/A |
