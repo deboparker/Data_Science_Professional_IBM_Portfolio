@@ -11,6 +11,7 @@ This course covers the foundational methodology data scientists use to approach 
 - Decision Tree Classification: Applied decision tree logic to classify outcomes in a case study.
 ---
 ## 📁 Projects
+
 | Project | Description | Tools Used |
 |---------|-------------|------------|
-*(Credit Card Cluster Analysis coming soon)* | Case study applying CRISP-DM stages | N/A |
+| [Credit Card Fraud](credit-card-fraud.md) | Case study applying CRISP-DM stages to a credit card fraud detection problem using K-Means clustering | Python, pandas, scikit-learn |
