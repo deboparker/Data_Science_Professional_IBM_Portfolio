@@ -9,9 +9,9 @@
 
 ## 👋 About This Portfolio
 
-This repository documents my journey through the IBM Data Analytics Professional Certificate program offered by IBM on Coursera. Each folder below represents a course module, including the skills I learned and projects I completed.
+This repository documents my journey through the IBM Data Analytics Professional Certificate program offered by IBM on Coursera. Each folder below represents a course, including the skills I learned and projects I completed. Each module folder highlights the specific skills applied, allowing for quick identification of experience relevant to a given role. The first two modules cover foundational theory and tool introductions and therefore do not include standalone projects; applied work begins with Module 3.
 
-Use the links below to navigate to each course.
+ Please select the blue hyperlinks to navigate to the projects.
 
 ---
 ## 📁 Course Modules
