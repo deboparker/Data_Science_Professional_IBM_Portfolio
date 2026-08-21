@@ -3,7 +3,7 @@
 # 📊 IBM Data Analytics Professional Certificate Portfolio
 
 **Program:** IBM Data Analytics Professional Certificate — Coursera
-**Status:** In Progress
+**Status:** 🟡 In Progress
 
 ---
 
