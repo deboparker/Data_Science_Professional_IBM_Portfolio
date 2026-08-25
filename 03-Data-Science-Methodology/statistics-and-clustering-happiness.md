@@ -8,9 +8,10 @@
 
 ## 📌 Overview
 This project practices data manipulation and labelled visualization in Jupyter Notebooks, using a a csv dataset of country-level happiness scores and average income. This Dataset contain 112 instances. 
-## 📁 Dataset + jpnb file
+## 🟩Dataset 
 [`happiness_data.csv`](./happiness_data.csv)
 
+📁 jpnb file
 [`./Happinessdataset.csv`)](./Happinessdataset.csv)
 
 ## 📊 Project Prompt
