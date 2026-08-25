@@ -12,6 +12,15 @@
 This repository documents my journey through the IBM Data Analytics Professional Certificate program offered by IBM on Coursera. Each folder below represents a course, including the skills I learned and projects I completed. Each module folder highlights the specific skills applied, allowing for quick identification of experience relevant to a given role. The first two modules cover foundational theory and tool introductions and therefore do not include standalone projects; applied work begins with Module 3.
 
  Please select the blue hyperlinks to navigate to the projects.
+ 
+## 🛠️ Tools & Skills Being Built
+
+[![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](./02-Excel-Basics-for-Data-Analysis)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![IBM Cognos](https://img.shields.io/badge/IBM%20Cognos-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 ## 📁 Course Modules
@@ -31,13 +40,6 @@ This repository documents my journey through the IBM Data Analytics Professional
 | 11 | [Data Analyst Career Guide and Interview Preparation](./11-Data-Analyst-Career-Guide-Interview-Prep) | ⬜ Not Started | Resume, portfolio, interview prep | N/A |
 ---
 
-## 🛠️ Tools & Skills Being Built
-
-[![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](./02-Excel-Basics-for-Data-Analysis)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![IBM Cognos](https://img.shields.io/badge/IBM%20Cognos-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
