@@ -12,7 +12,7 @@ This project practices data manipulation and labelled visualization in Jupyter N
 [`happiness_data.csv`](./happiness_data.csv)
 
 ## 📁 jpnb file
-[`./Happinessdataset.csv`)](./Happinessdataset.csv)
+[`Practice_Graded_Assignment_EDA.ipynb`)](Practice_Graded_Assignment_EDA.ipynb)
 
 ## 📊 Project Prompt
 In this project I got some practice in manipulating the data. I was tasked with following exercise in using Jupyter Notebooks to conduct a cluster analysis.
