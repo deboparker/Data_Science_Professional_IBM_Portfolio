@@ -7,7 +7,10 @@
 ---
 
 ## 📌 Overview
-This project practices data manipulation and labelled visualization in Jupyter Notebooks, using a dataset of country-level happiness scores and average income.
+This project practices data manipulation and labelled visualization in Jupyter Notebooks, using a a csv dataset of country-level happiness scores and average income. This Dataset contain 112 instances. 
+## 📁 Dataset
+[`happiness_data.csv`](./happiness_data.csv)
+
 
 ## 📊 The Graph
 
@@ -27,8 +30,6 @@ The first graph plots average income against happiness score. On its own it didn
 **What makes the labelled points interesting:**
 Western Europe, North America, and Australia/New Zealand are all non-collective cultures, and they had the highest average happiness scores in the labelled bar graphs. This supports the theory that non-collective cultures have higher income *and* a correlation between happiness and income — though it isn't statistically proven, since the scatter plot doesn't show a perfect line. Investigating cultural variation within each region would be the next step, to identify which countries are outliers within their region.
 
-## 📁 Dataset
-[`happiness_data.csv`](./happiness_data.csv)
 
 ---
 
