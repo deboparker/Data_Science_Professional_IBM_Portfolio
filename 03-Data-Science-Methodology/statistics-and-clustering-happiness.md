@@ -11,7 +11,7 @@ This project practices data manipulation and labelled visualization in Jupyter N
 ## 🟩Dataset 
 [`happiness_data.csv`](./happiness_data.csv)
 
-📁 jpnb file
+## 📁 jpnb file
 [`./Happinessdataset.csv`)](./Happinessdataset.csv)
 
 ## 📊 Project Prompt
