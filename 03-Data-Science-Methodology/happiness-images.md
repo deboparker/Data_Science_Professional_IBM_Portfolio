@@ -5,13 +5,25 @@
 ---
 
 ## 📌 Overview
-This project practices data manipulation and labelled visualization in Jupyter Notebooks, using a csv dataset of country-level happiness scores and average income. This dataset contains 112 instances.
+In this project I got some practice in manipulating the data. I was tasked with following exercise in using Jupyter Notebooks. In this project I gained practice in data manipulation and labeling visualizations in Jupyter Notebooks, using a csv dataset of country-level happiness scores and average income. This dataset contains 112 instances.
 
 ## 📁 Dataset
 [`happiness_data.csv`](./happiness_data.csv)
+## 📊Project Prompt:
+You should also provide a brief explanation of what the graph is showing.
+Document must include:
+1.	Labels on the x and y axes stating what the axes represent (e.g. happiness, average income, etc.)
+The x-axis is the independent variable, income and the y-axis is the dependent variable, happiness score.
+2.	One or more labelled 'data points of interest'
+I made my data label points the countries in the early graphs.  I then, filtered data by region, which resulted in 10 different total regions. Then I added another filter for collective vs non-collective cultures. 
 
-## 📊 Graph 1: Happiness vs. Average Income (All Countries)
-![Happiness vs Income Scatter Plot](./stat_and_clustering_in_pythonimg1.png)
+3.	An explanation of the Graph:
+
+•	why you chose to plot those particular columns in the data + how you sorted or filtered the data?
+
+
+The first graph in my second cell is showing “The Average Income” compared to the happiness scores.
+(./stat_and_clustering_in_pythonimg1.png)
 
 - **X-axis:** Average Income *(independent variable)*
 - **Y-axis:** Happiness Score *(dependent variable)*
