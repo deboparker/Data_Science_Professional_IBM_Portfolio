@@ -16,5 +16,5 @@ This course covers the foundational methodology data scientists use to approach 
 |---------|-------------|------------|
 |---------|-------------|------------|
 | [Credit Card Fraud](credit-card-fraud.md) | Case study applying CRISP-DM stages to a credit card fraud detection problem using K-Means clustering | Python, pandas, scikit-learn |
-| [Credit Card Fraud](credit-card-fraud.md) | Case study applying CRISP-DM stages to a credit card fraud detection problem using K-Means clustering | Python, pandas, scikit-learn |
+|| | Python, pandas, scikit-learn |
 
