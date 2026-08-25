@@ -7,7 +7,7 @@
 ---
 
 ## 📌 Overview
-This project practices data manipulation and labelled visualization in Jupyter Notebooks, using a a csv dataset of country-level happiness scores and average income. This Dataset contain 112 instances. 
+This project practices data manipulation and labelled visualization in Jupyter Notebooks, using a csv dataset of country-level happiness scores and average income. This dataset contain 112 instances. 
 ## 🟩Dataset 
 [`happiness_data.csv`](./happiness_data.csv)
 
