@@ -28,7 +28,7 @@ This repository documents my journey through the IBM Data Analytics Professional
 | # | Course | Status | Tools & Topics | Projects |
 |---|--------|--------|-----------------|----------|
 | 01 | [What is Data Science](./01-Introduction-to-Data-Analytics) | ✅ Complete |  Data science methodology, big data fundamentals, file formats (CSV, JSON, XML), data processing algorithms | N/A |
-| 02 | [Tools for Data Science](./02-Excel-Basics-for-Data-Analysis) | ✅ Complete | Jupyter Notebooks, JupyterLab, Git/GitHub, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, IBM Watson Studio, IBM Cloud, Python, R, SQL, APIs | N/A |
+| 02 | [Tools for Data Science](./02-Excel-Basics-for-Data-Analysis) | ✅ Complete | Jupyter Notebooks, JupyterLab, Git/GitHub, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, IBM Watson Studio, IBM Cloud, Python, R, SQL, APIs |![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)|
 | 03 | [Data Science Methodology](./03-Data-Science-Methodology) | 🟡 In Progress | CRISP-DM methodology, business understanding, analytic approach, data requirements, decision tree classification | N/A |
 | 04 | [Python for Data Science, AI & Development](./04-Python-for-Data-Science-AI-Development) | ⬜ Not Started | Python basics, APIs, web scraping | N/A |
 | 05 | [Python Project for Data Science](./05-Python-Project-for-Data-Science) | ⬜ Not Started | Python project, data extraction, visualization | N/A |
