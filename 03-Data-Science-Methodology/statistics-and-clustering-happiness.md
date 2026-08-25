@@ -46,6 +46,3 @@ According to Claude, Western Europe, North America and Australia and New Zealand
 
 ---
 
-## 📬 Contact
-- **LinkedIn:** *(add your LinkedIn URL here)*
-- **Email:** *(add your email here)*
