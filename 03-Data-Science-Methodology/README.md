@@ -15,7 +15,7 @@ This course covers the foundational methodology data scientists use to approach 
 | Project | Description | Tools Used |
 |---------|-------------|------------|
 |---------|-------------|------------|
-|Statistics_and_Clustering_in_Python| Created a  | Python, pandas, scikit-learn |
+|Statistics_and_Clustering_in_Python| Analyzed World Happiness data with Pandas and Matplotlib to create a labeled, annotated scatter plot, with written justification for variable selection and key insights.  | Python, pandas, scikit-learn |
 | [Credit Card Fraud](credit-card-fraud.md) | Case study applying CRISP-DM stages to a credit card fraud detection problem using K-Means clustering | Python, pandas, scikit-learn |
 
 
