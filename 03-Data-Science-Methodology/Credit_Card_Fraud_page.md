@@ -4,14 +4,16 @@ Evaluating suitability for K-Means clustering
 
 ---
 
-> **Key Finding**
-> The dataset is suitable for K-Means after standardization. Two natural clusters were confirmed both visually and with the elbow method.
-
+> **Overview**
+> This dataset contains 1,372 rows and 2 numeric columns, V1 and V2, drawn from the Banknote Authentication dataset. The goal of this analysis is to determine whether the dataset is structurally suited for K-Means clustering, and what preprocessing steps it requires.
+> 
 ## Analysis Question
 Is this dataset structurally suited to K-Means clustering, and what preprocessing does it require?
 
 ## Methodology
-Five criteria were checked in sequence, using descriptive statistics, visualization, and the elbow method. The criteria used to determine suitability for K-Means clustering were the following:
+This dataset was provided in the Coursera module titled "Week 4 Code Resource – the Dataset for our Project". The code was ran in jupyterlabs where libraries pandas, matplotlib, and sklearn were used. A tree diagram contained the criteria for determining if a K-means was possible.
+
+The following Five criteria were to determine suitability for K-Means clustering:
 
 - **Numeric variables** — K-Means only works on numbers (distance-based). Categorical variables need encoding or don't belong. V1 and V2 are both numeric.
 - **Similar scales** — if one variable ranges 0-1000 and another ranges 0-1, K-Means will basically ignore the smaller one. Checked from the `describe()` output, comparing min/max and std of V1 vs V2.
