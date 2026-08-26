@@ -1,1 +1,101 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Banknote Authentication — K-Means Suitability</title>
+<style>
+  :root {
+    --bg: #f7f5f0;
+    --ink: #1c1c1c;
+    --muted: #5c5c5c;
+    --accent: #2b5d4f;
+    --accent-soft: #e4efe9;
+    --border: #d8d3c7;
+    --code-bg: #eeece4;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    padding: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: "Georgia", "Iowan Old Style", serif;
+    line-height: 1.65;
+  }
+
+  main {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 64px 24px 96px;
+  }
+
+  .eyebrow {
+    font-family: "Courier New", monospace;
+    font-size: 13px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 8px;
+  }
+
+  h1 {
+    font-size: 34px;
+    line-height: 1.2;
+    margin: 0 0 8px;
+    font-weight: 600;
+  }
+
+  h2 {
+    font-size: 22px;
+    margin-top: 48px;
+    margin-bottom: 12px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  p { color: var(--ink); }
+
+  .subtitle {
+    color: var(--muted);
+    font-size: 17px;
+    margin-top: 0;
+  }
+
+  .callout {
+    background: var(--accent-soft);
+    border-left: 4px solid var(--accent);
+    border-radius: 4px;
+    padding: 16px 20px;
+    margin: 28px 0;
+  }
+
+  .callout-label {
+    font-family: "Courier New", monospace;
+    font-size: 12px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 700;
+    margin-bottom: 6px;
+  }
+
+  .callout p {
+    margin: 0;
+  }
+
+  ul {
+    padding-left: 20px;
+  }
+
+  li {
+    margin-bottom: 12px;
+  }
+
+  code {
+    font-family: "Courier New", monospace;
+    background: var(--code-bg);
+    padding: 2px 6px;
