@@ -25,3 +25,6 @@ The following Five criteria were to determine suitability for K-Means clustering
 This framework guided the evaluation step by step, turning each requirement into a question to check before writing the corresponding code. Additional steps beyond the assignment's requirements were included intentionally, for extra practice with visual plotting and data manipulation.
 
 ![Suitability framework](suitability_framework.svg)
+
+##Calculating the Statistical Measures
+![03-Data-Science-Methodology/1_2_statistical_meansimg.png]
