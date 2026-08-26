@@ -40,3 +40,7 @@ To see the difference in the two variable I decided to make them different color
 ## Scaled Comparison
 After standardization, V1 and V2 are both centered around 0 with matching spread, replacing their previous mismatch in scale. The two variables now occupy the same visual range, confirming the scaling step worked as intended.
 ![Scaled_graph](1_4_statistical_meansimg.png)
+
+## Calculating the Outliers
+We can see there was no outliners.To ensure there truly was none they were calculated and there was 0 for the first and fourth quartile. 
+![OUtlier caluclated] (1_5_statistical_meansimg.png)
