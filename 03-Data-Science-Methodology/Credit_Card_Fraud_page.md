@@ -42,5 +42,5 @@ After standardization, V1 and V2 are both centered around 0 with matching spread
 ![Scaled_graph](1_4_statistical_meansimg.png)
 
 ## Calculating the Outliers
-We can see there was no outliners.To ensure there truly was none they were calculated and there was 0 for the first and fourth quartile. 
+We can see there was no outliners.To ensure there truly was none they were calculated and there was no outliers for the first and fourth quartiles. 
 ![OUtlier caluclated](1_5_statistical_meansimg.png)
