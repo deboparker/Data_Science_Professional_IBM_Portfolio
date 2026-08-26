@@ -27,4 +27,4 @@ This framework guided the evaluation step by step, turning each requirement into
 ![Suitability framework](suitability_framework.svg)
 
 ##Calculating the Statistical Measures
-![03-Data-Science-Methodology/1_2_statistical_meansimg.png]
+![Statistical means](1_2_statistical_meansimg.png)
