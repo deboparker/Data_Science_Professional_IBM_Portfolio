@@ -27,4 +27,10 @@ This framework guided the evaluation step by step, turning each requirement into
 ![Suitability framework](suitability_framework.svg)
 
 ## Calculating the Statistical Measures
+After installing the pandas library the calculations were performed to gain information about the data. We can see here that V2's spread is roughly double V1's, indicating the two variables sit on noticeably different scales. This scale difference requires us to standardize the data before clustering or V2 dominate our outcome. 
 ![Statistical means](1_2_statistical_meansimg.png)
+
+📈 Findings & visualizations
+
+To see the difference in the two variable I decided to make them different colors. We can see that  two large blocks that overlap each other. Density is highest near the center of the two blocks and then thins out toward the edges, with no obvious gap splitting the data into visually distinct clusters at this stage.
+![Ditribution of the two Variables](03-Data-Science-Methodology/1_3_statistical_meansimg.png)
