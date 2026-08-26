@@ -42,5 +42,9 @@ After standardization, V1 and V2 are both centered around 0 with matching spread
 ![Scaled_graph](1_4_statistical_meansimg.png)
 
 ## Calculating the Outliers
-We can see there was no outliners.To ensure there truly was none they were calculated and there was no outliers for the first and fourth quartiles. 
+To ensure there truly were no outliers calculations were performed that proved there were no first and fourth quartiles outliers. Then, another graph was created to calculate the inertia. We can see below it drops sharply from k=1 to k=2, then flattens with only gradual decreases from k=3 onward. This bend at k=2 provides quantitative confirmation of the two-cluster structure first observed in the row-index plot, replacing a visual guess with objective evidence. 
+
 ![OUtlier caluclated](1_5_statistical_meansimg.png)
+
+
+The 2-cluster split likely reflects the dataset's original purpose — distinguishing genuine from forged banknotes — even though class labels weren't used directly in this analysis. The scale difference between V1 and V2 is likely due to the two variables measuring different properties of the banknote images (e.g., differing units or feature ranges), which is common in real-world feature sets and why standardization is a standard preprocessing step rather than a sign of a data problem.
