@@ -22,4 +22,4 @@ Five criteria were checked in sequence, using descriptive statistics, visualizat
 ## Suitability Framework
 This framework guided the evaluation step by step, turning each requirement into a question to check before writing the corresponding code. Additional steps beyond the assignment's requirements were included intentionally, for extra practice with visual plotting and data manipulation.
 
-![Suitability framework](03-Data-Science-Methodology/suitability_framework.svg)
+![Suitability framework](suitability_framework.svg)
