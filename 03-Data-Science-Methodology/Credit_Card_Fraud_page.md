@@ -48,5 +48,5 @@ To ensure there truly were no outliers calculations were performed that proved t
 
 
 ## Conclusions
-
+In conclusion, this dataset is well suited for K-Means clustering, provided that standardization is applied prior to analysis. All five suitability criteria, including numeric variables, comparable scales following correction, visible cluster structure, the absence of outliers, and manageable dimensionality, were satisfied. The elbow method further confirmed that two clusters represent the appropriate and natural grouping for this dataset.
 
