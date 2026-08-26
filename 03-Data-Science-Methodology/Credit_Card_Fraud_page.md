@@ -49,4 +49,4 @@ To ensure there truly were no outliers calculations were performed that proved t
 
 ## Conclusions
 
-The 2-cluster split likely reflects the dataset's original purpose — distinguishing genuine from forged banknotes — even though class labels weren't used directly in this analysis. The scale difference between V1 and V2 is likely due to the two variables measuring different properties of the banknote images (e.g., differing units or feature ranges), which is common in real-world feature sets and why standardization is a standard preprocessing step rather than a sign of a data problem.
+
